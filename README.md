@@ -14,6 +14,8 @@ This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.co
 ### Demo Bot:
 <a href="https://t.me/MediasStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Gowdru123/fulestore9&branch=koyeb&name=filesharingbot)
+
 ## Configs:
 - `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
 - `API_HASH` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
