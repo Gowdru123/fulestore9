@@ -23,29 +23,26 @@ This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
-
 📝 **Language:** [Python3](https://www.python.org)
-
 📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
-
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** [Jnanesh](https://t.me/Beastonejnanesh)
+🧑🏻‍💻 **Developer:** [Jnanesh](https://t.me/jnaneshgowdru)
 
 
-📢 **Updates Channel:** [ಸಿನಿಮಾ ಹಾಲ್](https://t.me/jnaneshgowdatn)
+📢 **Updates Channel:** [ROCKERSBACKUP](https://t.me/ROCKERSBACKUP)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @Beastonejnanesh 
+🧑🏻‍💻 **Developer:** @jnaneshgowdru 
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://t.me/Beastonejnanesh) (love)
+[Donate Now](https://t.me/jnaneshgowdru) (love)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
+Send me any file  adult and movies I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
 """
