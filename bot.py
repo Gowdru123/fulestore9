@@ -315,7 +315,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://t.me/jnaneshgowdru")
+                                             url="https://t.me/jnaneshtn")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -333,7 +333,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://t.me/jnaneshgowdru")
+                                             url="https://t.me/jnaneshtn")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -371,14 +371,14 @@ async def button(bot: Client, cmd: CallbackQuery):
                 user = await bot.get_chat_member(channel_chat_id, cmd.message.chat.id)
                 if user.status == "kicked":
                     await cmd.message.edit(
-                        text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/JoinOT).",
+                        text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/ROCKERSBACKUP).",
                         disable_web_page_preview=True
                     )
                     return
             except UserNotParticipant:
                 invite_link = await get_invite_link(channel_chat_id)
                 await cmd.message.edit(
-                    text="**You Still Didn't Join ☹️, Please Join My Updates Channel to use this Bot! @SEX_PORN_DESI_CHANNEL_BOT @theaterprintbot**\n\n"
+                    text="**You Still Didn't Join ☹️, Please Join My Updates Channel to use this Bot! @theaterprintbot**\n\n"
                          "Due to Overload, Only Channel Subscribers can use the Bot!",
                     reply_markup=InlineKeyboardMarkup(
                         [
@@ -404,8 +404,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/ROCKERSBACKUP"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/jnaneshgowdru")
+                        InlineKeyboardButton("Support Group", url="https://t.me/+D7L-rX9lKA43MGRl"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/ROCKERSBACKUP")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
