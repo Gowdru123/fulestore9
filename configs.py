@@ -27,19 +27,19 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** [Jnanesh](https://t.me/jnaneshgowdru)
+🧑🏻‍💻 **Developer:** [Jnanesh](https://t.me/jnaneshtn)
 
 
 📢 **Updates Channel:** [ROCKERSBACKUP](https://t.me/ROCKERSBACKUP)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @jnaneshgowdru 
+🧑🏻‍💻 **Developer:** @jnaneshtn 
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://t.me/jnaneshgowdru) (love)
+[Donate Now](https://t.me/jnaneshtn) (love)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
